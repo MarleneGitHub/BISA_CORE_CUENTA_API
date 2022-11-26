@@ -1,0 +1,1 @@
+[{"NumeroCuenta":"123456","Moneda":"840","Estado":"HOLD","Saldo":-10.0},{"NumeroCuenta":"123457","Moneda":"068","Estado":"ACTIVE","Saldo":56.0}]
